@@ -1,0 +1,10 @@
+type Farm
+  @model
+  @auth(rules: [{ allow: owner }, { allow: private, operations: [read] }]) {
+  id: ID!
+  s3key: String!
+  farm_address: String!
+  farm_describe: String
+  owner: String
+  ownerIdentityId: String
+}

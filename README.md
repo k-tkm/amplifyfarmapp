@@ -2,7 +2,8 @@
 使っていない農場を掲載して売りに出せるようなアプリです。
 
 ※まだ作成途中なのでこれからどんどん機能を追加していきます！
-![スクリーンショット 2021-07-07 11 12 40](https://user-images.githubusercontent.com/73158391/124689902-5565b180-df14-11eb-8b8f-12dbb5d5c659.png)
+
+![スクリーンショット 2021-07-07 13 25 22](https://user-images.githubusercontent.com/73158391/124700027-ec3b6980-df26-11eb-8abf-113fd3567b3a.png)
 
 サイトurl: https://dev.d8ay5qpijnkx0.amplifyapp.com/ 
 
